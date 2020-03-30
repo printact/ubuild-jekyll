@@ -67,14 +67,14 @@ page_sections:
     headline: "1"
     content: "1"
   col_2:
-    headline: ''
-    content: ''
+    headline: "2"
+    content: "2"
   col_3:
-    headline: ''
-    content: ''
+    headline: "3"
+    content: "3"
   col_4:
-    headline: ''
-    content: ''
+    headline: "4"
+    content: "4"
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
