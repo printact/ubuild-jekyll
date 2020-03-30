@@ -54,8 +54,9 @@ page_sections:
   block: three-column-1
   col_1:
     headline: 'Smart Hardware: '
-    content: <strong><img src="/uploads/2020/03/30/3DPrinter.jpg"><br>Robotics, CNC,
-      3D Printing, Automation, IoT &amp; Electronics <br></strong>
+    content: <a href="https://github.com/printact/ubuild-jekyll/blob/master/uploads/2020/03/30/Career%20Talk-2.jpg?raw=true"
+      title="Career Talk-2.jpg?raw=true">Career Talk-2.jpg?raw=true</a><br><strong>Robotics,
+      CNC, 3D Printing, Automation, IoT &amp; Electronics <br></strong>
   col_2:
     headline: 'Software:'
     content: "<strong>E-commerce, ERP, Education-related solution</strong>"
