@@ -53,8 +53,9 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: "1"
-    content: "1"
+    headline: 'Smart Hardware: '
+    content: "<strong>Robotics, CNC, 3D Printing, Automation, IoT &amp; Electronics
+      <br></strong>"
   col_2:
     headline: "2"
     content: "2"
