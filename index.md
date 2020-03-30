@@ -62,8 +62,8 @@ page_sections:
     headline: test3
     content: col3
   col_4:
-    headline: ''
-    content: ''
+    headline: Test4
+    content: column4
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
