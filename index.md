@@ -54,8 +54,7 @@ page_sections:
   block: three-column-1
   col_1:
     headline: 'Smart Hardware: '
-    content: <a href="https://github.com/printact/ubuild-jekyll/blob/master/uploads/2020/03/30/3DPrinter.jpg?raw=true"
-      title="3DPrinter.jpg?raw=true">3DPrinter.jpg?raw=true</a><br><strong>Robotics,
+    content: <img src="https://raw.githubusercontent.com/printact/ubuild-jekyll/master/uploads/2020/03/30/3DPrinter.jpg"><strong>Robotics,
       CNC, 3D Printing, Automation, IoT &amp; Electronics <br></strong>
   col_2:
     headline: 'Software:'
