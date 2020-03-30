@@ -50,6 +50,20 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
+- template: 4-column-text
+  block: four-column-1
+  col_1:
+    headline: Test1
+    content: col1
+  col_2:
+    headline: ''
+    content: ''
+  col_3:
+    headline: ''
+    content: ''
+  col_4:
+    headline: ''
+    content: ''
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
