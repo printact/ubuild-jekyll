@@ -59,8 +59,8 @@ page_sections:
     headline: test2
     content: column2
   col_3:
-    headline: ''
-    content: ''
+    headline: test3
+    content: col3
   col_4:
     headline: ''
     content: ''
