@@ -18,10 +18,6 @@ page_sections:
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download
-- template: signup-bar
-  block: cta-bar
-  content: ''
-  email_recipient: ''
 - template: hero-banner-w-image
   block: hero-2
   headline: "<strong>Customized State-of-the-Art Technologies &amp; Solution:</strong>"
@@ -81,8 +77,8 @@ page_sections:
 - template: 4-column-footer
   block: footer-2
   image: ''
-  col_2: "<br><br>10/F Cheung Hing Industrial Building, 12P Smithfield Road, Kennedy
-    Town, HKSAR"
+  col_2: Proudly made in Kennedy Town. ❤︎<br><br>10/F Cheung Hing Industrial Building,
+    12P Smithfield Road, Kennedy Town, HKSAR
   col_3: ''
   col_4: ''
 
