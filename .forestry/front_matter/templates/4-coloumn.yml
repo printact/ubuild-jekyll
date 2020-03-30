@@ -20,7 +20,7 @@ fields:
     template: text-column
     label: Column
   label: Column 1
-- name: column_2
+- name: col_2
   type: field_group
   config: {}
   fields:
