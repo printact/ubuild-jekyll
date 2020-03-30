@@ -77,7 +77,10 @@ page_sections:
 - template: 4-column-footer
   block: footer-2
   image: ''
-  col_2: ''
+  col_2: '&lt;iframe width="600" height="450" frameborder="0" style="border:0"<br>src="<a
+    href="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJlVf3iZD_AzQRyU1gFspiR_0&amp;key=..."
+    title="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJlVf3iZD_AzQRyU1gFspiR_0&amp;key=..."><strong>https://www.google.com/maps/embed/v1/place?q=place_id:ChIJlVf3iZD_AzQRyU1gFspiR_0&amp;key=...</strong></a>"
+    allowfullscreen&gt;&lt;/iframe&gt;<br><br>10/<br>'
   col_3: ''
   col_4: ''
 
