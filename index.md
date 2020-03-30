@@ -57,8 +57,8 @@ page_sections:
     content: "<strong>Robotics, CNC, 3D Printing, Automation, IoT &amp; Electronics
       <br></strong>"
   col_2:
-    headline: "2"
-    content: "2"
+    headline: 'Software:'
+    content: "<strong>E-commerce, ERP, Education-related solution</strong>"
   col_3:
     headline: "3"
     content: "3"
