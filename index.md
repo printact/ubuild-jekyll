@@ -54,8 +54,8 @@ page_sections:
   block: three-column-1
   col_1:
     headline: 'Smart Hardware: '
-    content: "<strong>Robotics, CNC, 3D Printing, Automation, IoT &amp; Electronics
-      <br></strong>"
+    content: <strong><img src="/uploads/2020/03/30/Career Talk-2.jpg"><br>Robotics,
+      CNC, 3D Printing, Automation, IoT &amp; Electronics <br></strong>
   col_2:
     headline: 'Software:'
     content: "<strong>E-commerce, ERP, Education-related solution</strong>"
