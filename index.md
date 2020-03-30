@@ -106,7 +106,6 @@ page_sections:
     12P Smithfield Road, Kennedy Town, HKSAR
   col_3: ''
   col_4: ''
-published: false
 
 ---
 foo bar
