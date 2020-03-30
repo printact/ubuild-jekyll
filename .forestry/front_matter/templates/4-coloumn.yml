@@ -1,4 +1,51 @@
 ---
 label: 4-coloumn
 hide_body: true
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: Block
+  hidden: true
+  default: four-column-1
+- name: column_1
+  type: field_group
+  config: {}
+  fields:
+  - name: column
+    type: include
+    config: {}
+    template: text-column
+    label: Column
+  label: Column 1
+- name: column_2
+  type: field_group
+  config: {}
+  fields:
+  - name: column
+    type: include
+    config: {}
+    template: text-column
+    label: Column
+  label: Column 2
+- name: column_3
+  type: field_group
+  config: {}
+  fields:
+  - name: column
+    type: include
+    config: {}
+    template: text-column
+    label: Column
+  label: Column 3
+- name: column_4
+  type: field_group
+  config: {}
+  fields:
+  - name: column
+    type: include
+    config: {}
+    template: text-column
+    label: Column
+  label: Column 4
