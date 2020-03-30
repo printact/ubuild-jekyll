@@ -10,7 +10,7 @@ fields:
   label: Block
   hidden: true
   default: four-column-1
-- name: column_1
+- name: col_1
   type: field_group
   config: {}
   fields:
@@ -30,7 +30,7 @@ fields:
     template: text-column
     label: Column
   label: Column 2
-- name: column_3
+- name: col_3
   type: field_group
   config: {}
   fields:
@@ -40,7 +40,7 @@ fields:
     template: text-column
     label: Column
   label: Column 3
-- name: column_4
+- name: col_4
   type: field_group
   config: {}
   fields:
