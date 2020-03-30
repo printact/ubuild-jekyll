@@ -61,7 +61,7 @@ page_sections:
     content: "<strong>E-commerce, ERP, Education-related solution</strong>"
   col_3:
     headline: App
-    content: iOS, Android, Web App
+    content: "<strong>iOS, Android, Web App</strong>"
 - template: 4-column-text
   block: four-column-1
   col_1:
