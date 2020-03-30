@@ -60,8 +60,8 @@ page_sections:
     headline: 'Software:'
     content: "<strong>E-commerce, ERP, Education-related solution</strong>"
   col_3:
-    headline: "3"
-    content: "3"
+    headline: App
+    content: iOS, Android, Web App
 - template: 4-column-text
   block: four-column-1
   col_1:
