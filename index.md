@@ -64,17 +64,17 @@ page_sections:
 - template: 4-column-text
   block: four-column-1
   col_1:
-    headline: Test1
-    content: col1
+    headline: "1"
+    content: "1"
   col_2:
-    headline: test2
-    content: column2
+    headline: ''
+    content: ''
   col_3:
-    headline: test3
-    content: col3
+    headline: ''
+    content: ''
   col_4:
-    headline: Test4
-    content: column4
+    headline: ''
+    content: ''
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
