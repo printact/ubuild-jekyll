@@ -102,10 +102,10 @@ page_sections:
   content: Hello world! ❤︎
 - template: 4-column-footer
   block: footer-2
-  image: ''
+  image: "/uploads/2020/03/30/Screenshot 2020-03-30 at 23.17.23.png"
   col_2: Proudly made in Kennedy Town. ❤︎<br><br>10/F Cheung Hing Industrial Building,
     12P Smithfield Road, Kennedy Town, HKSAR
-  col_3: <img src="/uploads/2020/03/30/Screenshot 2020-03-30 at 23.17.23.png">
+  col_3: ''
   col_4: ''
 
 ---
