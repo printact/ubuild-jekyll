@@ -18,6 +18,10 @@ page_sections:
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download
+- template: signup-bar
+  block: cta-bar
+  content: ''
+  email_recipient: ''
 - template: hero-banner-w-image
   block: hero-2
   headline: "<strong>Customized State-of-the-Art Technologies &amp; Solution:</strong>"
