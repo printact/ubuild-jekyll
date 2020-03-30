@@ -50,6 +50,17 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: "1"
+    content: "1"
+  col_2:
+    headline: "2"
+    content: "2"
+  col_3:
+    headline: "3"
+    content: "3"
 - template: 4-column-text
   block: four-column-1
   col_1:
