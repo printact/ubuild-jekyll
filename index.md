@@ -77,9 +77,8 @@ page_sections:
 - template: 4-column-footer
   block: footer-2
   image: ''
-  col_2: '&lt;iframe width="600" height="450" frameborder="0" style="border:0"<br>src="<strong>https://www.google.com/maps/embed/v1/place?q=place_id:ChIJlVf3iZD_AzQRyU1gFspiR_0&amp;key=...</strong>"
-    allowfullscreen&gt;&lt;/iframe&gt;<br><br>10/F Cheung Hing Industrial Building,
-    12P Smithfield Road, Kennedy Town, HKSAR'
+  col_2: "<br><br>10/F Cheung Hing Industrial Building, 12P Smithfield Road, Kennedy
+    Town, HKSAR"
   col_3: ''
   col_4: ''
 
